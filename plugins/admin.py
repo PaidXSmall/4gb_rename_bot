@@ -15,7 +15,7 @@ async def warn(c, m):
                 await m.reply_text("User Notfied Sucessfully")
                 await c.send_message(chat_id=int(user_id), text=reason)
             except:
-                 await m.reply_text("User Not Notfied Sucessfully 😔") 
+                 await m.reply_text("User Not Not fied Sucessfully 😔") 
 
 
 @Client.on_message(filters.private & filters.user(ADMIN) & filters.command(["addpremium"]))
