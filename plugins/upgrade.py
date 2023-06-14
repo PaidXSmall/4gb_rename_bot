@@ -16,6 +16,7 @@ async def upgrade(bot,update):
 	Price Rs 70  🇮🇳/🌎 0.97$  per Month
 	
 	Pay Using Upi I'd ```devagovin@paytm```
+        Pay Using Upi I'd ```thriudev04@okhdfcbank```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin"""
@@ -41,7 +42,8 @@ async def upgradecm(bot,message):
 	Price Rs 70  🇮🇳/🌎 0.90$  per Month
 	
 	
-	Pay Using Upi I'd ```devagovin@paytm```
+	Pay Using Paytm Upi I'd ```devagovin@paytm```
+	Pay Using Gpay Upi I'd ```thriudev04@okhdfcbank```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin"""
